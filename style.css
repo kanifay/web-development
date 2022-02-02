@@ -1,1 +1,43 @@
 
+
+  body {
+    background-color: skyblue;
+  }
+
+  /* Style the header */
+  header {
+    background-color: lightgrey;
+    padding: 30px;
+    text-align: center;
+
+  }
+
+  hr {
+
+    border-style: none;
+    border-top-style:dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+  }
+
+  h1 {
+    color: purple;
+    font-family: Roboto;
+    font-size: 150;
+
+  }
+
+  p {
+    color: purple;
+    font-family: Roboto;
+    font-size: 45;
+  }
+
+  /* Style the footer */
+  footer {
+    background-color: lightgrey;
+    padding: 10px;
+    text-align: center;
+
+  }
